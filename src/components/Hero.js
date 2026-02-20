@@ -213,7 +213,7 @@ export default function Hero() {
           <span style={s.badge}>Honours in Mathematics</span>
           <h1 style={s.h1}>
             Best Maths Classes in Delhi with<br />
-            with <span style={s.highlight}>Prof. Roshan Kumar/span>
+            with <span>style={s.highlight}>Prof. Roshan Kumar</span>
           </h1>
           <p style={s.desc}>
             Concept Maths Academy offers the best Maths classes in Delhi for students of Classes 6–12 (CBSE & ICSE).
