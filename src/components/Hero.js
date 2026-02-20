@@ -209,16 +209,15 @@ export default function Hero() {
       </svg>
 
       <div style={s.inner} className="hero-inner">
-        <div style={s.left}>
+        <div style={s.left}>                                    
           <span style={s.badge}>Honours in Mathematics</span>
           <h1 style={s.h1}>
-            Master Mathematics<br />
-            with <span style={s.highlight}>Er. Roshan Kumar</span>
+            Best Maths Classes in Delhi with<br />
+            with <span style={s.highlight}>Prof. Roshan Kumar/span>
           </h1>
           <p style={s.desc}>
-            Er. Roshan Kumar is a highly dedicated Mathematics educator with an Honours degree in Mathematics.
-            With a deep conceptual understanding and strong practical teaching experience, he has been
-            guiding students from Classes 9–12 and competitive exams with excellent results.
+            Concept Maths Academy offers the best Maths classes in Delhi for students of Classes 6–12 (CBSE & ICSE).
+             Under the expert guidance of Prof. Roshan Kumar, students build strong conceptual clarity and achieve excellent board exam results.
           </p>
 
           <p style={s.philosophy}>Teaching Philosophy</p>
