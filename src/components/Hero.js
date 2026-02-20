@@ -213,7 +213,7 @@ export default function Hero() {
           <span style={s.badge}>Honours in Mathematics</span>
           <h1 style={s.h1}>
             Master Mathematics<br />
-            with <span style={s.highlight}>Roshan Kumar</span>
+            with <span style={s.highlight}>Er. Roshan Kumar</span>
           </h1>
           <p style={s.desc}>
             Roshan Kumar is a highly dedicated Mathematics educator with an Honours degree in Mathematics.
