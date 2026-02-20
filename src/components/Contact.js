@@ -132,6 +132,9 @@ export default function Contact() {
           <p style={{ textAlign: 'center', fontWeight: 'bold', marginBottom: '20px' }}>
 📞 Call Us: +91 8368221582
            </p>
+  <p style={{ textAlign: 'center', fontWeight: 'bold', marginBottom: '10px' }}>
+📧 Email: conceptmaths@gmail.com
+</p>
         <p style={s.subtitle}>Have questions? Want to enroll? Send us your inquiry and we'll get back to you promptly.</p>
 
         <div style={s.formCard}>
