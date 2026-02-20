@@ -216,7 +216,7 @@ export default function Hero() {
             with <span style={s.highlight}>Er. Roshan Kumar</span>
           </h1>
           <p style={s.desc}>
-            Roshan Kumar is a highly dedicated Mathematics educator with an Honours degree in Mathematics.
+            Er. Roshan Kumar is a highly dedicated Mathematics educator with an Honours degree in Mathematics.
             With a deep conceptual understanding and strong practical teaching experience, he has been
             guiding students from Classes 9–12 and competitive exams with excellent results.
           </p>
